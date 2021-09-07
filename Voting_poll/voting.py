@@ -34,15 +34,15 @@ for vote in range(5):
 #Summing the votes for every candidate
 for vote in range(5):
     if vote == 0:
-    vote1 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
+      vote1 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
     elif vote == 1:
-    vote2 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
+      vote2 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
     elif vote == 2:
-    vote3 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
+      vote3 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
     elif vote == 3:
-    vote4 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
+      vote4 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
     elif vote == 4:
-    vote5 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
+      vote5 = school_1[vote] + school_2[vote] + school_3[vote] + school_4[vote] + school_5[vote]
 
 
 #Inserting the sum of votes per candidate en the list of votes
