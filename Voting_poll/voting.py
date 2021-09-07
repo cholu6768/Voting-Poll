@@ -46,11 +46,11 @@ for vote in range(5):
 
 
 #Inserting the sum of votes per candidate en the list of votes
-votos.append(vote1)
-votos.append(vote2)
-votos.append(vote3)
-votos.append(vote4)
-votos.append(vote5)
+votes.append(vote1)
+votes.append(vote2)
+votes.append(vote3)
+votes.append(vote4)
+votes.append(vote5)
 
 # Adding all the votes to the variable total
 total = 0
