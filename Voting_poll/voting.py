@@ -61,5 +61,5 @@ for voto in votes:
 for vote in range(5):
   print(candidates[vote] + " Number of votes:", end="")
   print(votes[vote])
-  print(f"Respective porcentage: {round((votes[vote] / total)*100),2}%")
+  print(f"Respective porcentage: {round((votes[vote] / total)*100, 2)}%")
   print()
